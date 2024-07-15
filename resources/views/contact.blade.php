@@ -132,7 +132,7 @@
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deserunt quisquam voluptatibus debitis aperiam ratione. Officia, 
                                     suscipit iure, tenetur eum consequatur, consequuntur omnis accusamus odit quod pariatur excepturi architecto veniam. Soluta 
                                     modi dignissimos libero blanditiis at saepe doloribus temporibus illo facilis dolorem, aliquam obcaecati accusamus nihil 
-                                    laboriosam, esse vel. Quod, vitae.
+                                    laboriosam, esse vel. Quod, 
                                     </p>
         
                                     <a href="mailto:#0" class="btn btn--primary u-fullwidth contact-btn">
