@@ -21,3 +21,7 @@ Route::get('/service', function () {
 Route::get('/journal', function () {
     return view('blog');
 });
+
+Route::get('/login', function () {
+    return view('login');
+});

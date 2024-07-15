@@ -73,7 +73,7 @@
                     </ul> <!-- s-header__menu-links -->
 
                     <div class="s-header__contact">
-                        <a href="contact.html" class="btn btn--primary s-header__contact-btn">Let's Work Together</a>                        
+                        <a href="login" : active="request()->routeIs('login')" class="btn btn--primary s-header__contact-btn">Login</a>                        
                     </div> <!-- s-header__contact -->
     
                 </nav> <!-- end s-header__nav -->
@@ -94,7 +94,7 @@
                 <div class="row s-intro__content width-sixteen-col">
 
                     <div class="column lg-12 s-intro__content-inner grid-block">
-                        
+                    
                         <div class="s-intro__content-text">
                             <div class="s-intro__content-pretitle text-pretitle">SELAMAT DATANG</div>
                             <h1 class="s-intro__content-title">
@@ -106,7 +106,7 @@
 
                         <div class="s-intro__content-media"> 
                             <div class="s-intro__content-media-inner">                               
-                                <img src="{{ asset('storage') }}/assets/images/intro-bg@2x.jpg">
+                                <!-- <img src="{{ asset('storage') }}/assets/images/intro-bg@2x.jpg"> -->
                                 <!-- <div class="lines">                               
                                     <span></span>                                  
                                 </div> -->
